@@ -2,5 +2,5 @@
 
 - 👩‍🎓 Cursando o Tecnologo em Tecnologia em Gestão da Segurança e Defesa Cibernética
 - 💼 Estou trabalhando atualmente como Estagiária em Testes na ProcessMind.
-- 👩‍💻 Aprendendo sobre automação de Testes.
+- 👩‍💻 Estudando Automação de Teste. 
 - 💬 O meu e-mail para contato é o leticiadasilva.991@gmail.com.
